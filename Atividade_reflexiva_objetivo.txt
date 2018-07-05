@@ -1,0 +1,36 @@
+ROTEIRO DE ATIVIDADE DE APRENDIZAGEM
+ATIVIDADE REFLEXIVA
+Atividade Prática
+Temática: HTML, CSS, JS + jQuery, PHP, Git
+Disciplina: Fundamentos de Programação para Internet
+Prof. Carlos Eduardo Simões Pelegrin
+1 - Características da Atividade Prática
+A atividade que será desenvolvida pelos alunos visa proporcionar a oportunidade de vivência no mundo do desenvolvimento web, trazendo o aluno para o mais próximo possível do mercado de trabalho.
+Nesta atividade busca-se permitir ao aluno a compreensão das diversas técnicas de trabalho com as linguagens de marcação e programação explicadas no decorrer da matéria. Também permite que o mesmo comece a buscar qualidade no desenvolvimento de sites e perceba as facilidades e dificuldades que cada tecnologia trás.
+O emprego da atividade prática é também uma forma de motivar os alunos a refletir sobre a área, já que os mesmos terão a responsabilidade de empregar suas capacidades analítica e criativa e não simplesmente realizar uma leitura (ou pesquisa) “somente por ler”. A capacidade analítica é desenvolvida quando o aluno é desafiado a interpretar e implementar o que é solicitado, conforme acontece com análise de requisitos em um projeto real. Dessa forma, a técnica possibilita a integração de ideias, já que o aluno precisa organizar, raciocinar e sintetizar essas ideias para implementar o projeto proposto.
+2 - Contextualização e preparação para o estudo
+Nesta atividade, trabalharemos um gerador de currículos em PHP.
+O aluno deverá criar uma interface com HTML e CSS para inclusão dos dados pessoais e em alguns locais deverá incluir campos dinamicamente utilizando JavaScript e jQuery.
+Para entrega, o aluno deverá utilizar as técnicas de Versionamento e Git.
+Para testes e desenvolvimento, o aluno deverá utilizar o Xampp, conforme foi ensinado no decorrer da matéria.
+3 - Atividades
+1. Organizar o projeto com diretórios conforme exemplos no guia didático.
+2. Criar uma interface utilizando HTML e CSS para que o usuário possa incluir seus dados pessoais, como nome, data de nascimento, idade, etc… Para criação do layout, pode-se utilizar a técnica de escapar código html no arquivo php.
+3. Utilize JavaScript e/ou jQuery para incluir campos dinamicamente, como experiências profissionais e referências pessoais, conforme a necessidade do usuário. Inclua um botão “ + ” para que o usuário possa clicar e os campos para incluir experiência apareçam.
+4. Faça commit de cada alteração em uma ferramenta de Git. A mais utilizada pela comunidade ainda é o Github, mas existem outras, como o Gitlab, Bitbucket e OpenShift. Em todas elas o procedimento é o mesmo.
+5. Crie um repositório já com um README.md, faça clone para seu computador, inclua os arquivos do seu projeto dentro da pasta que foi clonada. A cada alteração faça um add e um commit com a mensagem de forma correta para facilitar o changelog. Faça um push após algum tempo para enviar as alterações para o servidor Git. Ao final, crie uma TAG e envie para o servidor central.
+6. A entrega do trabalho será o link do repositório onde seu gerador está mantido. Crie corretamente o arquivo README.md para que mostre seu nome, detalhes do trabalho e referências de uso de bibliotecas e outros materiais utilizados para desenvolvimento.
+4 - Orientações para o estudo
+Perceba que essa atividade possui uma infinidade de formas para desenvolvimento, sendo assim não há formas totalmente erradas para chegar ao resultado. O que pode existir é maneiras mais indicadas de programar.
+Sugiro que sejam seguidas as boas práticas de programação de cada linguagem. Procure referências na internet ou em livros para verificar como desenvolver de maneira mais correta.
+A internet é a forma mais fácil de disseminação de informação, mas procure embasamento em artigos e sites confiáveis para ter embasamento no desenvolvimento. Livros também são ótimas opções.
+Dúvidas sobre o tema ou as questões podem ser enviadas pelo AVA ou em nossos encontros ao vivo.
+Como fontes de consultas, sugere-se a utilização do Guia Didático da disciplina, os materiais complementares, as aulas conceituais, os encontros ao vivo, as obras da biblioteca
+virtual e artigos científicos (base de dados confiável para a busca por artigos científicos: www.spell.org.br). Além dessas fontes, apresenta-se ao final do roteiro referências sobre a temática da atividade.
+5 - Referências
+1. Php.net. Manual PHP. Disponível em https://secure.php.net/manual/pt_BR/index.php. Acesso em 16 de Junho de 2018.
+2. W3Schools.com. Referências sobre HTML, CSS, JS, jQuery, PHP. Disponível em https://www.w3schools.com. Acesso em 16 de Junho de 2018.
+3. HAVERBEKE, Marijn. JavaScript Eloquente - 2ª edição. Disponível em https://github.com/braziljs/eloquente-javascript. Acesso em 16 de Junho de 2018.
+4. CHACON e STRAUB. Pro Git - 2ª edição. Disponível em https://git-scm.com/book/pt-br/v2. Acesso em 16 de Junho de 2018.
+5. Github Guides. Mastering Markedown. Disponivel em https://guides.github.com/features/mastering-markdown. Acesso em 16 de Junho de 2018.
+6. SEGURADO, Valquiria Santos. Projeto de Interface com o Usuário. Disponível na Biblioteca Virtual da Unipar. Acesso em 16 de Junho de 2018.
