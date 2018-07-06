@@ -1,4 +1,4 @@
-<!--teste de alteração de versão, seguindo o versionamento, como correção de bug --> 
+<!--teste de alteração de versão, seguindo o versionamento, como correção de bug--> 
 Para incluir como comentário da página
 <!--Criar um gerador de curriculo php e disponibilizar um link para acesso. 
 Usar interfaces HTML e CSS para inclusão de dados pessoais como nome data de nascimento, idade... pode-se usar atécnica de escapar código html no arquivo php.
